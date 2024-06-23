@@ -36,7 +36,7 @@ The dashboard provides the following functionalities:
 4. **Disaster/Individual Tracking**:
    
    ![Disaster/Individual Tracking](Disaster.png)
-   ![Disaster/Individual Tracking Graph and Map](CS_340_Module_7_Project_2_disaster_graphmap.png)
+   ![Disaster/Individual Tracking Graph and Map](Disaster_map.png)
 
 ## Tools and Rationale
 
