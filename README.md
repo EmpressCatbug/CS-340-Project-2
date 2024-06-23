@@ -20,23 +20,23 @@ The dashboard provides the following functionalities:
 
 1. **Initial State**:
    
-   ![Initial State](images/CS_340_Module_7_Project_2_initial_state.png)
-   ![Initial State Graph and Map](images/CS_340_Module_7_Project_2_initial_state_graphmap.png)
+   ![Initial State](CS_340_Module_7_Project_2_(initial_state).png)
+   ![Initial State Graph and Map](CS_340_Module_7_Project_2_initial_state_graphmap.png)
 
 2. **Water Rescue**:
    
-   ![Water Rescue](images/CS_340_Module_7_Project_2_water.png)
-   ![Water Rescue Graph and Map](images/CS_340_Module_7_Project_2_water_graphmap.png)
+   ![Water Rescue](CS_340_Module_7_Project_2_water.png)
+   ![Water Rescue Graph and Map](CS_340_Module_7_Project_2_water_graphmap.png)
 
 3. **Mountain/Wilderness Rescue**:
    
-   ![Mountain/Wilderness Rescue](images/CS_340_Module_7_Project_2_wild.png)
-   ![Mountain/Wilderness Rescue Graph and Map](images/CS_340_Module_7_Project_2_wild_graphmap.png)
+   ![Mountain/Wilderness Rescue](CS_340_Module_7_Project_2_wild.png)
+   ![Mountain/Wilderness Rescue Graph and Map](CS_340_Module_7_Project_2_wild_graphmap.png)
 
 4. **Disaster/Individual Tracking**:
    
-   ![Disaster/Individual Tracking](images/CS_340_Module_7_Project_2_disaster.png)
-   ![Disaster/Individual Tracking Graph and Map](images/CS_340_Module_7_Project_2_disaster_graphmap.png)
+   ![Disaster/Individual Tracking](CS_340_Module_7_Project_2_disaster.png)
+   ![Disaster/Individual Tracking Graph and Map](CS_340_Module_7_Project_2_disaster_graphmap.png)
 
 ## Tools and Rationale
 
